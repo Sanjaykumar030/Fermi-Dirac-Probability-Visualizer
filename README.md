@@ -39,7 +39,9 @@ Built with `matplotlib`, `numpy`, and `matplotlib.widgets`, this educational too
 
 ## 📷 Screenshot
 
-> Sample GUI Output  
+- Sample output
+  - [View Sample Output Image](Static_View_of_Output.png)
+
 
 
 ---
