@@ -40,7 +40,7 @@ Built with `matplotlib`, `numpy`, and `matplotlib.widgets`, this educational too
 ## 📷 Screenshot
 
 > Sample GUI Output  
-(*Include an image here: You can add `![Screenshot](path/to/image.png)` if you're uploading to GitHub*)
+
 
 ---
 
@@ -50,7 +50,41 @@ Built with `matplotlib`, `numpy`, and `matplotlib.widgets`, this educational too
    Download from: [https://www.python.org](https://www.python.org)
 
 2. **Install Required Libraries**
+   ```bash
+   pip install sympy
+   ---
 
-```bash
-pip install matplotlib numpy
+## 💡 Inspiration
+
+This project was inspired by concepts learned in my Semester 1 Calculus and Linear Algebra courses.
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+---
+
+## 👤 Author
+
+Sanjay Kumar Sakamuri Kamalakar
+
+---
+
+## 🙏 Acknowledgements
+
+- Thanks to ChatGPT for assistance with code logic and Visualization.
+- Thanks to the developers of Python, tkinter, and sympy libraries.
+---
+
+## 📫 Contact
+
+Feel free to reach out to me:
+
+- Email: [sksanjaykumar010307@gmail.com](mailto:sksanjaykumar010307@gmail)
+- LinkedIn: [Sanjay Kumar Sakamuri Kamalakar](www.linkedin.com/in/sanjay-kumar-sakamuri-kamalakar-a67148214)
+---
+
+## 📝 Final Note
+
+
 
