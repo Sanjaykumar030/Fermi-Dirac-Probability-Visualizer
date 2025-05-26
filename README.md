@@ -51,12 +51,12 @@ Built with `matplotlib`, `numpy`, and `matplotlib.widgets`, this educational too
 
 2. **Install Required Libraries**
    ```bash
-   pip install sympy
+   pip install matplotlib numpy ipympl notebook
    ---
 
 ## 💡 Inspiration
 
-This project was inspired by concepts learned in my Semester 1 Calculus and Linear Algebra courses.
+This project was inspired by my second-semester course on Semiconductor Physics, particularly the topics related to the Fermi-Dirac distribution.
 
 
 ## License
@@ -73,7 +73,8 @@ Sanjay Kumar Sakamuri Kamalakar
 ## 🙏 Acknowledgements
 
 - Thanks to ChatGPT for assistance with code logic and Visualization.
-- Thanks to the developers of Python, tkinter, and sympy libraries.
+- Thanks to the developers of Python, Matplotlib, NumPy, and Jupyter for building the powerful open-source tools that made this project possible.
+- Special thanks to my professors and peers who introduced me to the fascinating world of semiconductor physics.
 ---
 
 ## 📫 Contact
@@ -85,6 +86,10 @@ Feel free to reach out to me:
 ---
 
 ## 📝 Final Note
+
+- This program serves as a useful tool for visually demonstrating how the conduction and valence bands vary with temperature and semiconductor type.  
+It can be especially helpful for beginners and educators to better understand and teach key concepts in semiconductor physics.
+
 
 
 
