@@ -40,7 +40,7 @@ Built with `matplotlib`, `numpy`, and `matplotlib.widgets`, this educational too
 ## 📷 Screenshot
 
 - Sample Overview
-  - [View Sample Output Image](Static_View_of_Output.png)
+  - [View Sample Output Image](static_View_of_Output.png)
 
 
 
