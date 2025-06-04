@@ -78,6 +78,14 @@ Sanjay Kumar Sakamuri Kamalakar
 - Thanks to the developers of Python, Matplotlib, NumPy, and Jupyter for building the powerful open-source tools that made this project possible.
 - Special thanks to my professors and peers who introduced me to the fascinating world of semiconductor physics.
 ---
+## Citation
+
+If you use this project, please cite it as:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15593205.svg)](https://doi.org/10.5281/zenodo.15593205)
+
+Sakamuri, S. K. (2025). Fermi-Dirac Probability Visualizer (Version 2). Zenodo. https://doi.org/10.5281/zenodo.15593205
+
 
 ## 📫 Contact
 
@@ -85,6 +93,7 @@ Feel free to reach out to me:
 
 - Email: [sksanjaykumar010307@gmail.com](mailto:sksanjaykumar010307@gmail)
 - LinkedIn: [Sanjay Kumar Sakamuri Kamalakar](www.linkedin.com/in/sanjay-kumar-sakamuri-kamalakar-a67148214)
+- ORCID: [https://orcid.org/0009-0009-1021-2297](https://orcid.org/0009-0009-1021-2297)
 ---
 
 ## 📝 Final Note
