@@ -84,7 +84,7 @@ If you use this project, please cite it as:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15593205.svg)](https://doi.org/10.5281/zenodo.15593205)
 
-Sakamuri, S. K. (2025). Fermi-Dirac Probability Visualizer (Version 2). Zenodo. https://doi.org/10.5281/zenodo.15593205
+Sakamuri Kamalakar, S. K. (2025). Fermi-Dirac Probability Visualizer. Zenodo. https://doi.org/10.5281/zenodo.15593205
 
 
 ## 📫 Contact
