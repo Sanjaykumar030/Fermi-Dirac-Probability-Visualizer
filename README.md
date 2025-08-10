@@ -47,6 +47,22 @@
 - [numpy](https://numpy.org/) – for computation
 - [matplotlib.widgets](https://matplotlib.org/stable/users/interactive.html) – for GUI elements
 
+## 💡 Core Logic Example
+```python
+def fermi_dirac(E, Ef, T):
+    #-> Handle the T=0 Kelvin edge case for a perfect step function
+    if T == 0:
+        if E < Ef:
+            return 1.0
+        elif E > Ef:
+            return 0.0
+        else:
+            #-> At E = Ef, the probability is exactly 0.5
+            return 0.5
+    #-> Calculate probability for T > 0 K
+    return 1 / (1 + np.exp((E - Ef) / (k * T)))
+```
+
 #### 📘 Physics Concepts
 - Fermi-Dirac distribution
 - Band theory
