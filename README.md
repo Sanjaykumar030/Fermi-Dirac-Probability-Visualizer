@@ -118,7 +118,7 @@ See the [LICENSE](LICENSE) file for details.
 
 If you use this project, please cite it as:
 
-> Sakamuri Kamalakar, S. K. (2025). Fermi-Dirac Probability Visualizer. Zenodo. https://doi.org/10.5281/zenodo.15593205  
+> Sakamuri Kamalakar, S. K. (2025). Fermi-Dirac Probability Visualizer (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15592765
 > [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15593205.svg)](https://doi.org/10.5281/zenodo.15593205)
 
 ---
